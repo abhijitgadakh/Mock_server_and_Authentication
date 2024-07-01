@@ -1,0 +1,10 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.notification {
+  margin: 20px 0;
+  color: green;
+}
+.todos {
+  margin: 20px 0;
+}
